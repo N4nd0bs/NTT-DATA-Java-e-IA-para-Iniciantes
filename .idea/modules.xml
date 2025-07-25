@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JogodaForca.iml" filepath="$PROJECT_DIR$/.idea/modules/JogodaForca.iml" group="JogodaForca" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JogodaForca_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JogodaForca_main.iml" group="JogodaForca" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JogodaForca_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JogodaForca_test.iml" group="JogodaForca" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NTT-DATA-Java-e-IA-para-Iniciantes.iml" filepath="$PROJECT_DIR$/.idea/NTT-DATA-Java-e-IA-para-Iniciantes.iml" />
+    </modules>
+  </component>
+</project>
